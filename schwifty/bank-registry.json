@@ -45934,5 +45934,779 @@
     "bic": "GENODEF1CH1", 
     "country_code": "DE", 
     "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Komerční banka, a.s.",
+    "short_name": "",
+    "bank_code": "0100",
+    "bic": "KOMBCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Československá obchodní banka, a.s.",
+    "short_name": "",
+    "bank_code": "0300",
+    "bic": "CEKOCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "MONETA Money Bank, a.s.",
+    "short_name": "",
+    "bank_code": "0600",
+    "bic": "AGBACZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Česká národní banka",
+    "short_name": "",
+    "bank_code": "0710",
+    "bic": "CNBACZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Česká spořitelna, a.s.",
+    "short_name": "",
+    "bank_code": "0800",
+    "bic": "GIBACZPX",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Fio banka, a.s.",
+    "short_name": "",
+    "bank_code": "2010",
+    "bic": "FIOBCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "MUFG Bank (Europe) N.V. Prague Branch",
+    "short_name": "",
+    "bank_code": "2020",
+    "bic": "BOTKCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "AKCENTA, spořitelní a úvěrní družstvo",
+    "short_name": "",
+    "bank_code": "2030",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Citfin, spořitelní družstvo",
+    "short_name": "",
+    "bank_code": "2060",
+    "bic": "CITFCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Moravský Peněžní Ústav – spořitelní družstvo",
+    "short_name": "",
+    "bank_code": "2070",
+    "bic": "MPUBCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Hypoteční banka, a.s.",
+    "short_name": "",
+    "bank_code": "2100",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Peněžní dům, spořitelní družstvo",
+    "short_name": "",
+    "bank_code": "2200",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Artesa, spořitelní družstvo",
+    "short_name": "",
+    "bank_code": "2220",
+    "bic": "ARTTCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Poštová banka, a.s., pobočka Česká republika",
+    "short_name": "",
+    "bank_code": "2240",
+    "bic": "POBNCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Banka CREDITAS a.s.",
+    "short_name": "",
+    "bank_code": "2250",
+    "bic": "CTASCZ22",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "ANO spořitelní družstvo",
+    "short_name": "",
+    "bank_code": "2260",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "ZUNO BANK AG, organizační složka",
+    "short_name": "",
+    "bank_code": "2310",
+    "bic": "ZUNOCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Citibank Europe plc, organizační složka",
+    "short_name": "",
+    "bank_code": "2600",
+    "bic": "CITICZPX",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "UniCredit Bank Czech Republic and Slovakia, a.s.",
+    "short_name": "",
+    "bank_code": "2700",
+    "bic": "BACXCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Air Bank a.s.",
+    "short_name": "",
+    "bank_code": "3030",
+    "bic": "AIRACZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "BNP Paribas Personal Finance SA, odštěpný závod",
+    "short_name": "",
+    "bank_code": "3050",
+    "bic": "BPPFCZP1",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "PKO BP S.A., Czech Branch",
+    "short_name": "",
+    "bank_code": "3060",
+    "bic": "BPKOCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "ING Bank N.V.",
+    "short_name": "",
+    "bank_code": "3500",
+    "bic": "INGBCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Expobank CZ a.s. (dříve LBBW Bank CZ a.s.)",
+    "short_name": "",
+    "bank_code": "4000",
+    "bic": "SOLACZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Českomoravská záruční a rozvojová banka, a.s.",
+    "short_name": "",
+    "bank_code": "4300",
+    "bic": "CMZRCZP1",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Raiffeisenbank a.s.",
+    "short_name": "",
+    "bank_code": "5500",
+    "bic": "RZBCCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "J & T Banka, a.s.",
+    "short_name": "",
+    "bank_code": "5800",
+    "bic": "JTBPCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "PPF banka a.s.",
+    "short_name": "",
+    "bank_code": "6000",
+    "bic": "PMBPCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Equa bank a.s.",
+    "short_name": "",
+    "bank_code": "6100",
+    "bic": "EQBKCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "COMMERZBANK Aktiengesellschaft, pobočka Praha",
+    "short_name": "",
+    "bank_code": "6200",
+    "bic": "COBACZPX",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "mBank S.A., organizační složka",
+    "short_name": "",
+    "bank_code": "6210",
+    "bic": "BREXCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "BNP Paribas Fortis SA/NV, pobočka Česká republika",
+    "short_name": "",
+    "bank_code": "6300",
+    "bic": "GEBACZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Všeobecná úverová banka a.s., pobočka Praha",
+    "short_name": "",
+    "bank_code": "6700",
+    "bic": "SUBACZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Sberbank CZ, a.s.",
+    "short_name": "",
+    "bank_code": "6800",
+    "bic": "VBOECZ2X",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Deutsche Bank Aktiengesellschaft Filiale Prag, organizační složka",
+    "short_name": "",
+    "bank_code": "7910",
+    "bic": "DEUTCZPX",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Waldviertler Sparkasse Bank AG",
+    "short_name": "",
+    "bank_code": "7940",
+    "bic": "SPWTCZ21",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Raiffeisen stavební spořitelna a.s.",
+    "short_name": "",
+    "bank_code": "7950",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Českomoravská stavební spořitelna, a.s.",
+    "short_name": "",
+    "bank_code": "7960",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Wüstenrot-stavební spořitelna a.s.",
+    "short_name": "",
+    "bank_code": "7970",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Wüstenrot hypoteční banka a.s.",
+    "short_name": "",
+    "bank_code": "7980",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Modrá pyramida stavební spořitelna, a.s.",
+    "short_name": "",
+    "bank_code": "7990",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Raiffeisenbank im Stiftland eG pobočka Cheb, odštěpný závod",
+    "short_name": "",
+    "bank_code": "8030",
+    "bic": "GENOCZ21",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Oberbank AG pobočka Česká republika",
+    "short_name": "",
+    "bank_code": "8040",
+    "bic": "OBKLCZ2X",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Stavební spořitelna České spořitelny, a.s.",
+    "short_name": "",
+    "bank_code": "8060",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Česká exportní banka, a.s.",
+    "short_name": "",
+    "bank_code": "8090",
+    "bic": "CZEECZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "HSBC Bank plc - pobočka Praha",
+    "short_name": "",
+    "bank_code": "8150",
+    "bic": "MIDLCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "PRIVAT BANK der Raiffeisenlandesbank Oberösterreich Aktiengesellschaft, pobočka Česká republika",
+    "short_name": "",
+    "bank_code": "8200",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Payment Execution s.r.o.",
+    "short_name": "",
+    "bank_code": "8220",
+    "bic": "PAERCZP1",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "EEPAYS s. r. o.",
+    "short_name": "",
+    "bank_code": "8230",
+    "bic": "EEPSCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Družstevní záložna Kredit",
+    "short_name": "",
+    "bank_code": "8240",
+    "bic": "",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Bank of China (Hungary) Close Ltd. Prague branch, odštěpný závod",
+    "short_name": "",
+    "bank_code": "8250",
+    "bic": "BKCHCZPP",
+    "country_code": "CZ",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Všeobecná úverová banka, a.s.",
+    "short_name": "",
+    "bank_code": "0200",
+    "bic": "SUBASKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Slovenská sporiteľňa, a.s.",
+    "short_name": "",
+    "bank_code": "0900",
+    "bic": "GIBASKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Národná banka Slovenska",
+    "short_name": "",
+    "bank_code": "0720",
+    "bic": "NBSBSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "TATR C Tatra banka, a.s.",
+    "short_name": "",
+    "bank_code": "1100",
+    "bic": "TATRSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "UniCredit Bank Slovakia, a.s.",
+    "short_name": "",
+    "bank_code": "1111",
+    "bic": "UNCRSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Slovenská záručná a rozvojová banka, a.s.",
+    "short_name": "",
+    "bank_code": "3000",
+    "bic": "SLZBSKBA",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "VOLKSBANK Slovensko, a.s.",
+    "short_name": "",
+    "bank_code": "3100",
+    "bic": "LUBASKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "OTP Banka Slovensko, a.s.",
+    "short_name": "",
+    "bank_code": "5200",
+    "bic": "OTPVSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Dexia banka Slovensko a.s.",
+    "short_name": "",
+    "bank_code": "5600",
+    "bic": "KOMASK2X",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Prvá stavebná sporiteľňa, a.s.",
+    "short_name": "",
+    "bank_code": "5900",
+    "bic": "PRVASKBA",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Poštová banka, a.s.",
+    "short_name": "",
+    "bank_code": "6500",
+    "bic": "POBNSKBA",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "ING Bank N.V., pobočka zahraničnej banky",
+    "short_name": "",
+    "bank_code": "7300",
+    "bic": "INGBSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "ČSOB – Československá obchodná banka, a.s.",
+    "short_name": "",
+    "bank_code": "7500",
+    "bic": "CEKOSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Wüstenrot stavebná sporiteľňa, a.s.",
+    "short_name": "",
+    "bank_code": "7930",
+    "bic": "WUSTSKBA",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "CALYON S.A., pobočka zahraničnej banky",
+    "short_name": "",
+    "bank_code": "8020",
+    "bic": "CRLYSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "COMMERZBANK Aktiengesellschaft, pobočka zahraničnej banky, Bratislava",
+    "short_name": "",
+    "bank_code": "8050",
+    "bic": "COBASKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "KB – KOMERČNÍ BANKA Bratislava, a.s.",
+    "short_name": "",
+    "bank_code": "8100",
+    "bic": "KOMBSKBA",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Privatbanka, a.s.",
+    "short_name": "",
+    "bank_code": "8120",
+    "bic": "BSLOSK22",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Citibank Europe plc, pobočka zahraničnej banky",
+    "short_name": "",
+    "bank_code": "8130",
+    "bic": "CITISKBA",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "ČSOB stavebná sporiteľňa, a.s.",
+    "short_name": "",
+    "bank_code": "8170",
+    "bic": "KBSPSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "EXIMBANKA SR",
+    "short_name": "",
+    "bank_code": "8160",
+    "bic": "EXSKSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Štátna pokladnica",
+    "short_name": "",
+    "bank_code": "8180",
+    "bic": "SPSRSKBA",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Centrálny depozitár cenných papierov SR, a.s.",
+    "short_name": "",
+    "bank_code": "8191",
+    "bic": "",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "HSBC Bank plc, pobočka zahraničnej banky",
+    "short_name": "",
+    "bank_code": "8300",
+    "bic": "HSBCSKBA",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Banco Mais, S.A., pobočka zahraničnej banky",
+    "short_name": "",
+    "bank_code": "8400",
+    "bic": "",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "J&T BANKA, a.s., pobočka zahraničnej banky",
+    "short_name": "",
+    "bank_code": "8320",
+    "bic": "JTBPSKBA",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Fio, sporiteľné družstvo, organizačná zložka zahraničnej osoby",
+    "short_name": "",
+    "bank_code": "8330",
+    "bic": "",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "The Royal Bank of Scotland N.V., pobočka zahraničnej banky",
+    "short_name": "",
+    "bank_code": "8350",
+    "bic": "ABNASKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "MBANK – BRE Bank SA, pobočka zahraničnej banky mBank v Slovenskej republike",
+    "short_name": "",
+    "bank_code": "8360",
+    "bic": "BREXSKBX",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Oberbank AG pobočka zahraničnej banky v Slovenskej republike",
+    "short_name": "",
+    "bank_code": "8370",
+    "bic": "",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "UNIBON – spořitelní a uvěrní družstvo, organizačná zložka zahraničnej osoby",
+    "short_name": "",
+    "bank_code": "8340",
+    "bic": "",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "AXA Bank Europe, pobočka zahraničnej banky",
+    "short_name": "",
+    "bank_code": "8380",
+    "bic": "",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Národná banka Slovenska – prevádzkovateľ platobného systému EURO SIPS",
+    "short_name": "",
+    "bank_code": "1030",
+    "bic": "",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "First Data Slovakia, s.r.o.",
+    "short_name": "",
+    "bank_code": "9550",
+    "bic": "",
+    "country_code": "SK",
+    "tbd": "0"
+  },
+  {
+    "primary": true,
+    "name": "Burza cenných papierov v Bratislave, a.s.",
+    "short_name": "",
+    "bank_code": "9951",
+    "bic": "",
+    "country_code": "SK",
+    "tbd": "0"
   }
 ]

@@ -71,7 +71,7 @@ class BIC(Base):
             ValueError: If the given bank code wasn't found in the registry
 
         Note:
-            This currently only works for German bank-codes.
+            This currently only works for German, Czech and Slovak bank-codes.
         """
         try:
             return cls(registry.get('bank_code')[(country_code, bank_code)]['bic'])
